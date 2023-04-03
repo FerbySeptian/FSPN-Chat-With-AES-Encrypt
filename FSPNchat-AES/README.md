@@ -1,5 +1,5 @@
-# Nama Aplikasi
-Aplikasi ini dibuat untuk membantu para pengguna dalam mengelola berbagai tugas mereka.
+# FSPN Chat 
+Aplikasi FSPN Chat ini dibuat untuk membantu para pengguna dalam mengelola berbagai tugas mereka.
 
 ## Deskripsi
 Aplikasi ini akan memungkinkan pengguna untuk mengelola dan mengatur tugas-tugas mereka. Pengguna dapat menambahkan, mengedit, dan menghapus tugas, serta melacak status tugas mereka. Aplikasi ini juga memungkinkan pengguna untuk menyimpan catatan untuk setiap tugas yang mereka lakukan.
@@ -12,9 +12,9 @@ Aplikasi ini akan memungkinkan pengguna untuk mengelola dan mengatur tugas-tugas
 - Notifikasi saat ada tugas baru
 
 # Cara Instalasi
-1. Unduh aplikasi ini di [link download]
+1. Unduh aplikasi ini di [https://github.com/FerbySeptian/FSPN-Chat-With-AES-Encrypt.git]
 2. Pindahkan file ke folder instalasi
-3. Jalankan program instalasi
+3. Jalankan program server.js
 4. Ikuti petunjuk instalasi
 5. Selesai!
 
